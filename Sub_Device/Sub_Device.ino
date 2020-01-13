@@ -1,6 +1,6 @@
 // Sub Device 2 : Arduino Uno Board Code
 
-#include <DHT.h>        // DHT11 온습도 센서 라이브러리 불러옴
+#include <DHT.h>       
 #include <Adafruit_GFX.h> 
 #include <Adafruit_PCD8544.h> 
 #include <SoftwareSerial.h>
